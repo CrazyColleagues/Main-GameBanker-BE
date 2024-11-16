@@ -1,0 +1,3 @@
+[submodule "services/api_gateway"]
+	path = services/api_gateway
+	url = git@github.com:CrazyColleagues/ApiGateway-GameBanker-BE.git
